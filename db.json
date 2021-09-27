@@ -1,6 +1,4 @@
 {
-    "op": "getClients",
-    "code": "0",
     "resp": [
         {
             "_id": "60a3f74286ad85105c63d44c",
